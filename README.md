@@ -19,5 +19,4 @@ bitmap.grayscale()
 bitmap.write('frame_gray.bmp')
 ```
 Adding this to make a file change
-Made another change
 
