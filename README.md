@@ -18,4 +18,5 @@ bitmap = bmp.BitmapReader('frame.bmp')
 bitmap.grayscale()
 bitmap.write('frame_gray.bmp')
 ```
+Testing update
 
